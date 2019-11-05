@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+first line on master
+=======
+First time edit
+Second line
+>>>>>>> newbranch
