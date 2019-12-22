@@ -6,3 +6,6 @@ Second line
 >>>>>>> newbranch
 
 Test a test_branch on local
+
+
+This is a change only on remote_branch remotely.
