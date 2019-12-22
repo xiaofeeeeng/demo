@@ -1,3 +1,5 @@
 Always remember to use 
 git pull
 at the beginning
+
+Test if the lcoal branch name can be different from the remote one
