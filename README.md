@@ -1,20 +1,28 @@
 # demo
 Demo of using GitHub
 
-master branch locally, then create a branch test_branch locally, make some changes on this new branch.
+# When you create a branch test_branch locally, make some changes on this new branch. Then you need create test_branch remotely and push the changes remotely
 
-  git push --set-upstream origin test_branch
+  git push --set-upstream origin test_branch  
   
-This will also create a test_branch remotely.
-
-  git branch -a                           'list local and remote branches
+  or 
+  
+  git push -u origin test_branch
+  
+# List local and remote branches
+  
+  git branch -a                           
   
   git checkout master
   
   git merge test_branch
   
-  git  branch -d test_branch              'this will remove branch locally
+# Remove branch locally
   
-  git push origin --delete test_branch    'this will remove branch remotelly
+  git  branch -d test_branch    
+  
+# remove branch remotelly
+  
+  git push origin --delete test_branch   
 
 
