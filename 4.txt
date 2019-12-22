@@ -1,0 +1,2 @@
+Make changes on remote_branch remotely
+And there is only master branch locally
