@@ -2,3 +2,6 @@ Make changes on remote_branch remotely
 And there is only master branch locally
 
 This is a change to test git reset SHA and HEAD 
+
+second change
+
