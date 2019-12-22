@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 first line on master
-=======
 First time edit
 Second line
->>>>>>> newbranch
 
 Test a test_branch on local
 
@@ -15,4 +12,8 @@ This is a change to check git reset after git push.-1
 
 This is a change to check git reset after git push.-2
 
+
+This change is to test git diff
+
+A change on testbranch
 
