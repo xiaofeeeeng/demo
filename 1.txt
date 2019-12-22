@@ -13,3 +13,6 @@ This is a change only on remote_branch remotely.
 
 This is a change to check git reset after git push.-1
 
+This is a change to check git reset after git push.-2
+
+
