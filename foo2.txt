@@ -5,3 +5,5 @@
 5: test git checkout ididid --filename, foo2.txt
 
 4: 4th row, foo2.txt
+
+6: 6th row
