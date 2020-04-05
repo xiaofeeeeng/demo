@@ -3,3 +3,5 @@
 2: a change at 4:52, foo2.txt
 
 3: test revert, foo2.txt
+
+4: 4th row, foo2.txt
