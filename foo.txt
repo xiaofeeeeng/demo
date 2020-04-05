@@ -2,6 +2,4 @@ A change made at 4:34
 
 2: a change made at 4:52, foo.txt
 
-3: test revert, foo.txt
-
 4: 4th row, foo.txt
