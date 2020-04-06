@@ -2,8 +2,11 @@ first line on master
 First time edit
 Second line
 
+a change made at 9:19pm by edu
+
 Test a test_branch on local
 
+a change made at 9:22pm by Jing
 
 This is a change only on remote_branch remotely.
 
