@@ -141,3 +141,22 @@ git rebase HEAD~3 -i   (*display the lastest 3 commits*)
 ## Tag
 
 
+---
+## alias of the command history 
+alias graph=“git log —all —decorate —oneline —graph”
+
+
+---
+## git log
+git log -p (show detailed changes)
+
+git log -4 (show 4 log messages)
+
+git log -2 —pretty=oneline  (only display commit messages)
+
+git log —pretty=medium   (default)
+
+git log ==pretty=fuller
+
+
+
