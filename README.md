@@ -158,7 +158,7 @@ Demo of using GitHub
 
 `git log —-pretty=medium`   (default)
 
-`git log ==pretty=fuller`
+`git log --pretty=fuller`
 
 
 
