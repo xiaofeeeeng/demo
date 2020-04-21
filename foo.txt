@@ -5,3 +5,5 @@ A change made at 4:34
 2: a change made at 4:52, foo.txt
 
 4: 4th row, foo.txt
+
+Line edit by Wenjuan at 1:58
