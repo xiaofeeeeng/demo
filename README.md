@@ -145,7 +145,7 @@ Demo of using GitHub
 
 ---
 ## alias of the command history 
-`alias graph=“git log —all —decorate —oneline —graph”`
+`alias graph=“git log —-all —-decorate —-oneline —-graph”`
 
 
 ---
