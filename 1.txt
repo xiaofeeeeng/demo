@@ -6,11 +6,29 @@ a change made at 9:19pm by edu
 
 Test a test_branch on local
 
-Add a new line using A
+add a new line using A
 
 Second line
 
-a change made at 9:22pm by Jing
+b chbnge mbde bt 9:22pm by Jing
+
+This is a change only on remote_branch remotely.
+
+Regret --line 28
+first line on master
+First time edit
+Second line
+
+a change made at 9:19pm by edu
+
+/Users/zwj/Desktop/demo
+Test a test_branch on local
+
+add a new line using A
+
+Second line
+
+b chbnge mbde bt 9:22pm by Jing
 
 This is a change only on remote_branch remotely.
 
@@ -23,7 +41,28 @@ Let me add something
 
 Blah 
 This change is to test git diff 
+a new lINe a change on testbranch
+
+
 A new lINe A change on testbranch
+A new lINe A change on testbranch
+This change is made on newbranch
+
+A new lINe A change on testbranch
+Edit by Jing --line 25
+
+
+Regret --line 28
+
+This is a change to check git reset after git push.-1
+
+This is a change to check git reset after git push.-2
+
+Let me add something
+
+Blah 
+This change is to test git diff 
+a new lINe a change on testbranch
 
 
 A new lINe A change on testbranch
