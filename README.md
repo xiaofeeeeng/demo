@@ -51,6 +51,10 @@ Demo of using GitHub
 
 `git remote add origin copiedHTTPS`
 
+'*If the repository is being forked, then you should do the following*'
+
+`git remote add upstram originalrepositoryHTTPS`
+
 ***if there is error like fatal: refusing to merge unrelated histories, you should do***
 
 `git pull origin master`
